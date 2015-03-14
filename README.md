@@ -1,5 +1,6 @@
 
-# <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> EcmaScript 7 Tools also known as EcmaScript 2016
+# <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> EcmaScript 7 Tools
+> Also known as EcmaScript 2016
 
 ## Transpilers
 
